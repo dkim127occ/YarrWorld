@@ -29,7 +29,8 @@
         android:id="@+id/pirateImageView"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/pirate"
-        android:layout_weight="2" />
+        android:layout_weight="2"
+        android:contentDescription="@string/image_text" />
 
     <Button
         android:layout_width="wrap_content"

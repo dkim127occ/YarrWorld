@@ -3,4 +3,5 @@
     <string name="welcome_text">Welcome to CS273 - Mobile Application Development</string>
     <string name="button_text">SHIVER ME TIMBERS</string>
     <string name="toast_text">YARR WORLD</string>
+    <string name="image_text">Orange Coast College\'s pirate mascot</string>
 </resources>
